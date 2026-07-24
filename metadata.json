@@ -1,0 +1,6 @@
+{
+  "name": "RealDraft AI",
+  "description": "Plataforma de auditoría legal y redacción inteligente de contratos impulsada por Google Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
